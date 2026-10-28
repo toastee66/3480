@@ -1,4 +1,5 @@
 # 3480
 ### This is a repo for Computer As A Medium Fall 2026.
 ### Group Name: [Your Group Name Here]
-### Group Members: [List of Group Members Here]
+### Group Members:
+### August Speisman
